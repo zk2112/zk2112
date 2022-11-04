@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zk2112
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in programing,data,ML.
+- 🌱 I’m currently learning data science
 - 📫 z.1996.k@gmail.com
 
 <!---
